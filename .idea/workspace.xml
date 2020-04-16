@@ -111,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586789764031</updated>
       <workItem from="1587022870559" duration="3204000" />
-      <workItem from="1587047182323" duration="735000" />
+      <workItem from="1587047182323" duration="1020000" />
     </task>
     <servers />
   </component>
@@ -142,21 +142,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587025193325" />
-    <state width="1286" height="389" key="GridCell.Tab.0.bottom" timestamp="1587023069083">
+    <state width="1322" height="124" key="GridCell.Tab.0.bottom" timestamp="1587048241440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="389" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587023069083" />
-    <state width="1286" height="389" key="GridCell.Tab.0.center" timestamp="1587023069083">
+    <state width="1322" height="124" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587048241440" />
+    <state width="1322" height="124" key="GridCell.Tab.0.center" timestamp="1587048241440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="389" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587023069083" />
-    <state width="1286" height="389" key="GridCell.Tab.0.left" timestamp="1587023069082">
+    <state width="1322" height="124" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587048241440" />
+    <state width="1322" height="124" key="GridCell.Tab.0.left" timestamp="1587048241440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="389" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587023069082" />
-    <state width="1286" height="389" key="GridCell.Tab.0.right" timestamp="1587023069083">
+    <state width="1322" height="124" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587048241440" />
+    <state width="1322" height="124" key="GridCell.Tab.0.right" timestamp="1587048241440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="389" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587023069083" />
+    <state width="1322" height="124" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587048241440" />
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587048229085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1587048229085" />
   </component>
 </project>
