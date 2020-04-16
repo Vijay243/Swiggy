@@ -137,3 +137,23 @@ def delete_area(request):
     sno = request.GET.get("sno")
     AreaModel.objects.filter(area_no=sno).delete()
     return redirect('open_area')
+
+
+def update_type(request):
+    sno = request.GET.get("sno")
+    sname = request.GET.get("sname")
+    d1 = {"sno": sno, "sname": sname}
+    return render(request, "s_admin/open_type.html", {"update_data": d1, "sdata": RestaurantTypeModel.objects.all()})
+
+
+def update_type_data(request):
+    sno = request.POST.get("s1")
+    sname = request.POST.get("s2")
+    RestaurantTypeModel.objects.filter(no=sno).update(type_name=sname)
+    return redirect('update_type')
+
+
+def delete_type(request):
+    sno = request.GET.get("sno")
+    RestaurantTypeModel.objects.filter(no=sno).delete()
+    return redirect('open_type')
