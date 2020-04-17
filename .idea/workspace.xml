@@ -51,7 +51,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/s_admin/static/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -63,15 +63,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Naveen Class Room\Django 8pm Project\Extra\MySwiggy\Swiggy\templates\s_admin" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\Swiggy\s_admin\static\images" />
+      <recent name="E:\github\Swiggy\templates\s_admin" />
       <recent name="F:\Naveen Class Room\Django 8pm Project\Extra\MySwiggy\Swiggy\s_admin\static\images" />
       <recent name="F:\Naveen Class Room\Django 8pm Project\Extra\MySwiggy\Swiggy\templates\restaurant" />
       <recent name="F:\Naveen Class Room\Django 8pm Project\Extra\MySwiggy\Swiggy\customer" />
-      <recent name="F:\Naveen Class Room\Django 8pm Project\Extra\MySwiggy\Swiggy\restaurant" />
-      <recent name="F:\Naveen Class Room\Django 8pm Project\Extra\MySwiggy\Swiggy\s_admin" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Naveen Class Room\Django 8pm Project\Extra\MySwiggy\Swiggy\templates\s_admin" />
     </key>
   </component>
   <component name="RunManager">
@@ -112,6 +112,7 @@
       <updated>1586789764031</updated>
       <workItem from="1587022870559" duration="3204000" />
       <workItem from="1587047182323" duration="1020000" />
+      <workItem from="1587099538782" duration="1558000" />
     </task>
     <servers />
   </component>
@@ -128,6 +129,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="0" key="#Swiggy" timestamp="1587022959263">
@@ -158,9 +160,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="124" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587048241440" />
-    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587048229085">
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587100805057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1587048229085" />
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1587100805057" />
   </component>
 </project>
